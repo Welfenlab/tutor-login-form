@@ -1,6 +1,6 @@
 {
   "name": "@tutor/login-form",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "User login form for Tutor.",
   "main": "lib/login_form.js",
   "scripts": {
